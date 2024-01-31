@@ -1,8 +1,16 @@
 # README FILE #
-## 4SP STANDS FOR 4 STRAIGHT POINTS ##
-Here, we're trying to using point.py to extract the coordinates of each point and use main.py to perform the main function
 
-Our goal here is to be able to find any pair of 4 points that make a straight line and pair them together.
-Afterwards, we print them out
+##Introduction:##
+4SP stands for 4 Straight Points. In this project, we utilize point.py to extract the coordinates of each point and main.py to execute the main functionality.
 
-Please feel free to edit or make any suggestions
+##Objective:##
+The primary objective is to identify any pair of 4 points that form a straight line and subsequently pair them together. The output will display these point pairs.
+
+##Usage:##
+1. Ensure that point.py contains the necessary functions for extracting point coordinates.
+2. Utilize main.py to execute the main function for detecting and pairing 4 straight points.
+3. Review the printed output to observe the identified point pairs.
+
+##Contributions:##
+Feel free to make edits or suggestions to enhance the functionality or clarity of the code.```
+

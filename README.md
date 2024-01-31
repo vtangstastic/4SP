@@ -5,6 +5,7 @@
 
 ## Objective: ##
 The primary objective is to identify any pair of 4 points that form a straight line and subsequently pair them together. The output will display these point pairs.
+In the main.py, I used the last file (points4.txt) as a testing subject
 
 ## Usage: ##
 1. Ensure that point.py contains the necessary functions for extracting point coordinates.
